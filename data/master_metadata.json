@@ -1,0 +1,169 @@
+[
+    {
+        "doc_id": "hr_doc_0",
+        "source_type": "pdf",
+        "path": "data\\hr_legal\\hr_doc_0.pdf",
+        "allowed_roles": [
+            "Standard_Employee",
+            "Finance_Analyst",
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "Employee Handbook Update"
+    },
+    {
+        "doc_id": "hr_doc_1",
+        "source_type": "pdf",
+        "path": "data\\hr_legal\\hr_doc_1.pdf",
+        "allowed_roles": [
+            "Standard_Employee",
+            "Finance_Analyst",
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "Employee Handbook Update"
+    },
+    {
+        "doc_id": "hr_doc_2",
+        "source_type": "pdf",
+        "path": "data\\hr_legal\\hr_doc_2.pdf",
+        "allowed_roles": [
+            "Standard_Employee",
+            "Finance_Analyst",
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "Employee Handbook Update"
+    },
+    {
+        "doc_id": "hr_doc_3",
+        "source_type": "pdf",
+        "path": "data\\hr_legal\\hr_doc_3.pdf",
+        "allowed_roles": [
+            "Standard_Employee",
+            "Finance_Analyst",
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "Employee Handbook Update"
+    },
+    {
+        "doc_id": "hr_doc_4",
+        "source_type": "pdf",
+        "path": "data\\hr_legal\\hr_doc_4.pdf",
+        "allowed_roles": [
+            "Super_Admin"
+        ],
+        "description": "Executive Compensation Contract"
+    },
+    {
+        "doc_id": "finance_db_0",
+        "source_type": "sqlite",
+        "path": "data\\finance_ops\\nova_corp.db",
+        "allowed_roles": [
+            "Finance_Analyst",
+            "Super_Admin"
+        ],
+        "description": "Employee Payroll Database"
+    },
+    {
+        "doc_id": "it_log_0",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_0.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for SERVER_ACCESS"
+    },
+    {
+        "doc_id": "it_log_1",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_1.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for VPN_LOGIN"
+    },
+    {
+        "doc_id": "it_log_2",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_2.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for DATA_EXPORT"
+    },
+    {
+        "doc_id": "it_log_3",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_3.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for VPN_LOGIN"
+    },
+    {
+        "doc_id": "it_log_4",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_4.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for VPN_LOGIN"
+    },
+    {
+        "doc_id": "it_log_5",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_5.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for SERVER_ACCESS"
+    },
+    {
+        "doc_id": "it_log_6",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_6.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for SERVER_ACCESS"
+    },
+    {
+        "doc_id": "it_log_7",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_7.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for SERVER_ACCESS"
+    },
+    {
+        "doc_id": "it_log_8",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_8.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for VPN_LOGIN"
+    },
+    {
+        "doc_id": "it_log_9",
+        "source_type": "json",
+        "path": "data\\it_security\\it_log_9.json",
+        "allowed_roles": [
+            "IT_Admin",
+            "Super_Admin"
+        ],
+        "description": "System log for DATA_EXPORT"
+    }
+]

@@ -1,0 +1,23 @@
+# --- Frontend UI ---
+streamlit
+
+# --- LLM & Orchestration ---
+groq
+langchain
+langchain-groq
+langchain-qdrant
+
+# --- Vector Database & Embeddings ---
+qdrant-client
+fastembed
+
+# --- Synthetic Data Generation ---
+Faker
+pandas
+fpdf2
+
+# --- Document Parsing (for ingestion) ---
+pypdf
+
+# --- Environment & Utils ---
+python-dotenv
