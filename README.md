@@ -44,8 +44,7 @@ Instead of relying on a single vector database with no security, NovaAssist util
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/YourUsername/nova-assist.git
-cd nova-assist
+git clone https://github.com/Zakeertech3/Nova_Enterprise_RAG.git
 ```
 
 **2. Install dependencies:**
@@ -74,22 +73,28 @@ NovaAssist features a dynamic role-switching UI to easily test the security peri
 ### 1. 👤 Standard Employee
 Can access general HR handbooks, but is physically blocked from querying financial databases.
 
-![Standard Employee View](docs/images/role_employee_placeholder.png)
+<img width="1903" height="977" alt="Image" src="https://github.com/user-attachments/assets/1b43801f-fe9b-426a-b18b-3eca31a49c8b" />
+
+<img width="1901" height="813" alt="Image" src="https://github.com/user-attachments/assets/ac08f684-46f7-45e1-92b6-6f5f0a74bc64" />
 
 ### 2. 💰 Finance Analyst
 Intelligently routes to the SQLite database to extract and summarize restricted salary records.
 
-![Finance Analyst View](docs/images/role_finance_placeholder.png)
+<img width="1907" height="761" alt="Image" src="https://github.com/user-attachments/assets/779aa03f-7d45-4d86-929c-24b3540535a4" />
+
+<img width="1907" height="786" alt="Image" src="https://github.com/user-attachments/assets/4e596af3-ffa9-4c6f-8f6f-992a8c899f78" />
 
 ### 3. 🔒 IT Admin
 Routes to semi-structured JSON logs to parse and identify sensitive server access/VPN events.
 
-![IT Admin View](docs/images/role_it_admin_placeholder.png)
+<img width="1902" height="936" alt="Image" src="https://github.com/user-attachments/assets/71b78628-a053-4dfd-ac6e-57f54fdbd12e" />
 
 ### 4. 🌐 Super Admin (Multi-Silo Reasoning)
 Handles complex, multi-intent queries by routing to `ALL` silos and synthesizing a unified answer across isolated datasets.
 
-![Super Admin View](docs/images/role_super_admin_placeholder.png)
+<img width="1910" height="907" alt="Image" src="https://github.com/user-attachments/assets/ed75bb28-1f3b-48e8-b023-709cfe473988" />
+
+<img width="1918" height="895" alt="Image" src="https://github.com/user-attachments/assets/04dedfda-8c50-4abc-8bf8-69d799627fe8" />
 
 ---
 
