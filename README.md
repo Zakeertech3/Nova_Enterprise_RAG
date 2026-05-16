@@ -80,9 +80,11 @@ Can access general HR handbooks, but is physically blocked from querying financi
 ### 2. 💰 Finance Analyst
 Intelligently routes to the SQLite database to extract and summarize restricted salary records.
 
+<img width="1907" height="786" alt="Image" src="https://github.com/user-attachments/assets/4e596af3-ffa9-4c6f-8f6f-992a8c899f78" />
+
+
 <img width="1907" height="761" alt="Image" src="https://github.com/user-attachments/assets/779aa03f-7d45-4d86-929c-24b3540535a4" />
 
-<img width="1907" height="786" alt="Image" src="https://github.com/user-attachments/assets/4e596af3-ffa9-4c6f-8f6f-992a8c899f78" />
 
 ### 3. 🔒 IT Admin
 Routes to semi-structured JSON logs to parse and identify sensitive server access/VPN events.
@@ -92,9 +94,9 @@ Routes to semi-structured JSON logs to parse and identify sensitive server acces
 ### 4. 🌐 Super Admin (Multi-Silo Reasoning)
 Handles complex, multi-intent queries by routing to `ALL` silos and synthesizing a unified answer across isolated datasets.
 
-<img width="1910" height="907" alt="Image" src="https://github.com/user-attachments/assets/ed75bb28-1f3b-48e8-b023-709cfe473988" />
-
 <img width="1918" height="895" alt="Image" src="https://github.com/user-attachments/assets/04dedfda-8c50-4abc-8bf8-69d799627fe8" />
+
+<img width="1910" height="907" alt="Image" src="https://github.com/user-attachments/assets/ed75bb28-1f3b-48e8-b023-709cfe473988" />
 
 ---
 
