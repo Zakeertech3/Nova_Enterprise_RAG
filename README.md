@@ -12,8 +12,9 @@ At most growing enterprises, critical data is scattered across disconnected silo
 
 Instead of relying on a single vector database with no security, NovaAssist utilizes an LLM-based intelligent routing agent combined with strict database-level payload filtering to ensure every query is both highly accurate and cryptographically secure based on the user's role.
 
-![Architecture Diagram](<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/de5da46e-0a74-4d86-b868-ed2c2d70b50f" />)
-*(If you draw a quick flowchart of how the Router -> Retriever -> Generator works, put it here)*
+# Architecture
+
+<img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/0c49e7e7-0239-406c-9529-73c4502e991f" />
 
 ---
 
